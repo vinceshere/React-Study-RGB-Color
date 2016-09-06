@@ -1,5 +1,7 @@
+# React-Study-RGB-Color
+
 ## Install
 
 ```
-$ npm install --save pageres
+$ npm install
 ```
